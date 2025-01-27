@@ -1,0 +1,33 @@
+
+
+Way of declaring variable...
+
+1. General Way
+2. Using var
+3. using let
+4. using const
+
+
+
+40, 50
+
+
+600, 450
+
+30, 50
+
+67, 5
+
+Rules of declaring variable....
+
+Any alphabets (a, b, c, x, y, D, C)
+Any Words (numberone, numbertwo, rahim, karim, number1, number_2)
+
+numberOne, numberTwo (Camel Case)
+
+apple ghftded
+
+
+Arithmetic Operator....
+
++, -, *, /, %
